@@ -4,7 +4,8 @@
     object-fit: contain;
     background-position: center;
     background-size: cover;
-    height: 620px;
+    /* height: 620px; */
     display: flex;
     align-items: center;
 }
+
